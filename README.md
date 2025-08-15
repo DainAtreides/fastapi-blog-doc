@@ -15,7 +15,7 @@ Overall, this project demonstrates the creation of a scalable, secure, and user-
 
 ## Demo
 
-🟢 Live demo: [https://example.com](https://example.com)
+🟢 Live demo: [https://mono-core.ru](https://mono-core.ru)
 
 ## Features
 

@@ -71,9 +71,9 @@ root/
 │   └── schemas.py                # Pydantic schemas
 ├── .env                          # Environment variables
 ├── Dockerfile                    # App Docker build
-├── Dockerfile.sass              # Sass-to-CSS build image
-├── docker-compose.yml           # Compose config for app & db
-├── requirements.txt             # Dependencies
+├── Dockerfile.sass               # Sass-to-CSS build image
+├── docker-compose.yml            # Compose config for app & db
+├── requirements.txt              # Dependencies
 └── alembic.ini                   # Alembic config
 ```
 

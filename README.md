@@ -13,10 +13,6 @@ Styling is implemented with modular SCSS, designed for maintainability, clarity,
 
 Overall, this project demonstrates the creation of a scalable, secure, and user-friendly web application built from the ground up, emphasizing simplicity and effectiveness over boilerplate or overengineering.
 
-## Demo
-
-🟢 Live demo: [https://mono-core.ru](https://mono-core.ru)
-
 ## Features
 
 ### Secure and Scalable Backend
@@ -126,6 +122,5 @@ root/
 
 ## Notes
 
-- Project is closed-source, deployed on a private VPS.
-- Demo is fully functional and available 24/7.
+- Project is closed-source.
 - Developed for portfolio purposes.
